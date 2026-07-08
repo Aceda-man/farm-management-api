@@ -16,3 +16,8 @@ A backend system for managing farm records, crops, harvests, and agricultural da
 - Django (coming soon)
 - Django REST Framework (coming soon)
 - PostgreSQL (coming soon)
+
+
+## Progress
+
+- added Django project setup and built health check api
