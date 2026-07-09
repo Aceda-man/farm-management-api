@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'farms',
     'rest_framework',
     'users',
-    'farms',
 ]
 
 MIDDLEWARE = [
